@@ -98,7 +98,7 @@
             "Ubuntu18"
           ]
         },
-        "InstanceType": "t3.small",
+        "InstanceType": "t2.micro",
         "Monitoring": "false",
         "SubnetId": {
           "Ref": "SubnetId"
@@ -182,7 +182,7 @@
             "Windows2016"
           ]
         },
-        "InstanceType": "t3.small",
+        "InstanceType": "t2.micro",
         "Monitoring": "false",
         "SubnetId": {
           "Ref": "SubnetId"
